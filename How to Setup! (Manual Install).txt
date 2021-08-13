@@ -1,0 +1,13 @@
+Go to https://www.python.org/downloads/ and click Download Python (version number here)
+
+If your not on windows click one of the ones from looking for py python for a different
+OS
+
+MAKE SURE U CLICKED PIP IN THE SETUP!!
+
+Go to command prompt and type pip install PyQt5
+ReOpen command prompt after the first one is done
+In command prompt type pip install PyQtWebEngine
+ReOpen again and type pip install qdarkstyle
+ReOpen once again and type pip install PySide2
+Now just double click BlueWeb.pyw and your done!
